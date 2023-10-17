@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahriar Rahman Anik</h1>
+<h1 align="center">Hi 👋, I'm MD Al Amin Hasan</h1>
 <p align="center">
   <a href="https://github.com/coderkamrul0"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
