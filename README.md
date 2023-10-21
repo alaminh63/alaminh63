@@ -70,7 +70,7 @@
 </p>
 
 <a> 
-    <a href="https://github.com/alaminh63"><img alt="MD Al Amin Hasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sranik28&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alaminh63"><img alt="MD Al Amin Hasan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sranik28&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alaminh63"><img alt="MD Al Amin Hasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alaminh63&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alaminh63"><img alt="MD Al Amin Hasan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alaminh63&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
