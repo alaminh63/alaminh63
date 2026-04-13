@@ -22,7 +22,7 @@
           I am a <b style="color: 7DD3FC;">Full Stack Developer</b> with 2+ years of experience building scalable, production-ready SaaS platforms and AI-powered applications. I specialize in integrating multiple AI models into real-world systems and designing efficient backend architectures.
         </p>
         <p style="font-size: 13px;">
-          📫 <b>Reach me:</b> <a href="mailto:alaminhasanpro@gmail.com">alaminhasanpro@gmail.com</a> | <b>Phone & Whatsapp:</b> +8801775006663
+          📫 <b>Reach me:</b> <a href="mailto:alaminhasanpro@gmail.com">alaminhasanpro@gmail.com</a> </br> <b>Phone & Whatsapp:</b> +8801775006663
         </p>
         <p align="left">
           <a href="https://www.linkedin.com/in/alaminh63/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" /></a>
