@@ -8,9 +8,9 @@
 
   <table border="0" width="100%">
     <tr>
-      <td width="35%" align="center" valign="top">
+      <td width="35%" align="center" valign="middle">
         <div align="center ">
-          <img src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" width="280" style="border: 3px solid #3B82F6; box-shadow: 0 0 15px rgba(59,130,246,0.4);" />
+          <img src="https://raw.githubusercontent.com/alsiam/alsiam/main/assets/programmer.gif" width="280" style="box-shadow: 0 0 15px rgba(59,130,246,0.4);" />
         </div>
       </td>
       <td width="65%" align="left" valign="middle">
