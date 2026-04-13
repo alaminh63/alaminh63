@@ -312,23 +312,23 @@
 
 <div align="center">
 
-  **🔥 Activity & Streaks**
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminh63&theme=tokyonight&hide_border=true" width="80%" />
+  <h4 align="center">🔥 Activity & Streaks</h4>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaminh63&theme=tokyonight&hide_border=true" width="70%" />
 
   <br/>
 
-  **📈 Profile Summary**
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaminh63&theme=tokyonight" width="80%" />
+  <h4 align="center">📈 Profile Summary</h4>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaminh63&theme=tokyonight" width="70%" />
   
   <br/>
 
-  **📊 GitHub Statistics**
+  <h4 align="center">📊 GitHub Statistics</h4>
   <div align="center">
     <a href="https://github.com/alaminh63">
-      <img alt="MD Al Amin Hasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alaminh63&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" height="195px"/>
+      <img alt="MD Al Amin Hasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alaminh63&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" height="180px"/>
     </a>
     <a href="https://github.com/alaminh63">
-      <img alt="MD Al Amin Hasan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alaminh63&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" width="49%" height="195px"/>
+      <img alt="MD Al Amin Hasan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alaminh63&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" width="48%" height="180px"/>
     </a>
   </div>
 
